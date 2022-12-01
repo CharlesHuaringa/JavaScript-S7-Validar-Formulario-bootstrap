@@ -1,2 +1,2 @@
-# JavaScript-S7-Validar-Formulario-bootstrap
-JS S7
+# JavaScriptAvanzado Ejercicios 
+
