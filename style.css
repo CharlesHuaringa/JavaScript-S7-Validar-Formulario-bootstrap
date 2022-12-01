@@ -1,0 +1,31 @@
+.logo1{
+    position: absolute;
+    right: 59rem;
+    bottom: 30.8rem;
+}
+.logo2{
+    position: absolute;
+    right: 59rem;  
+    bottom: 27.5rem;
+}
+.logo3{
+    position: absolute;
+    right: 27.3rem;  
+    bottom: 10px;
+}
+.logo4{
+    position: absolute;
+    right: 59rem;
+    bottom: 20rem;
+}
+.logo5{
+    position: absolute;
+    left: 24rem;
+    bottom: 15rem;
+}
+
+.emailprueba{
+    position: relative;
+    left: 130px;
+    bottom: 20px;
+}
