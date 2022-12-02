@@ -1,2 +1,2 @@
 # JavaScriptAvanzado-Ejercicios
-JS S7
+JS S7,S8
